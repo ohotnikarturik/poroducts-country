@@ -1,0 +1,14 @@
+.cartImg__counter {
+  position: absolute;
+  right: -13px;
+  top: 7px;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  font-size: 14px;
+  border: 2px solid #ffffff;
+}
